@@ -6,3 +6,5 @@ de donde se obtienen los personajes, locaciones y episodios.
 * HTML
 * CSS
 * JAVASCRIPT
+
+LINK: https://rickandmortydan.netlify.app/
